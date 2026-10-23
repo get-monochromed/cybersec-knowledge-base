@@ -94,8 +94,8 @@
       "ignore-case-words": true,
       "ignore-words": null,
       "lowercase-words": null,
-      "starting-word-ignore-characters": "'\"(\u2018\u201c-",
-      "ending-word-ignore-characters": ".?!,:;'\")\u201d\u20190123456789-"
+      "starting-word-ignore-characters": "'\"(‘“-",
+      "ending-word-ignore-characters": ".?!,:;'\")”’0123456789-"
     },
     "file-name-heading": {
       "enabled": false
@@ -109,7 +109,7 @@
     },
     "remove-trailing-punctuation-in-heading": {
       "enabled": false,
-      "punctuation-to-remove": ".,;:!\u3002\uff0c\uff1b\uff1a\uff01"
+      "punctuation-to-remove": ".,;:!。，；：！"
     },
     "footnote-after-punctuation": {
       "enabled": false
@@ -243,16 +243,16 @@
     },
     "remove-space-before-or-after-characters": {
       "enabled": false,
-      "characters-to-remove-space-before": ",!?;:).\u2019\u201d]",
-      "characters-to-remove-space-after": "\u00bf\u00a1\u2018\u201c(["
+      "characters-to-remove-space-before": ",!?;:).’”]",
+      "characters-to-remove-space-after": "¿¡‘“(["
     },
     "space-after-list-markers": {
       "enabled": false
     },
     "space-between-chinese-japanese-or-korean-and-english-or-numbers": {
       "enabled": false,
-      "english-symbols-punctuation-before": "-+;:'\"\u00b0%$)]",
-      "english-symbols-punctuation-after": "-+'\"([\u00a5$"
+      "english-symbols-punctuation-before": "-+;:'\"°%$)]",
+      "english-symbols-punctuation-after": "-+'\"([¥$"
     },
     "trailing-spaces": {
       "enabled": false,
