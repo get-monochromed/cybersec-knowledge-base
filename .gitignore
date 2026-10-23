@@ -15,3 +15,6 @@
 
 # Smart Connections embedding cache
 .smart-env/
+
+# Local REST API holds a per-vault API key + self-signed keys. Never commit.
+.obsidian/plugins/obsidian-local-rest-api/data.json
