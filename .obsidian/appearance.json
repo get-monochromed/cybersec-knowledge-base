@@ -1,0 +1,10 @@
+{
+  "theme": "system",
+  "accentColor": "",
+  "interfaceFontFamily": "Noto Sans",
+  "monospaceFontFamily": "Noto Sans Mono",
+  "textFontFamily": "Noto Sans",
+  "baseFontSizeAction": true,
+  "cssTheme": "",
+  "nativeMenus": false
+}

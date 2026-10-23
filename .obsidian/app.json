@@ -1,0 +1,14 @@
+{
+  "vimMode": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "_Attachments",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "_Attachments/",
+    "_Archive/",
+    "_Templates/",
+    ".obsidian-mcp/"
+  ]
+}

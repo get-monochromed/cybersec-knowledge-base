@@ -1,0 +1,14 @@
+# Obsidian volatile state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian-mcp/
+.trash/
+
+# OS noise
+.DS_Store
+
+# Plugin binaries are committed on purpose (local history of the plugin set).
+# If this vault is ever pushed to a remote, consider uncommenting:
+# .obsidian/plugins/*/main.js
+# .obsidian/plugins/*/styles.css
