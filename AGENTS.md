@@ -23,6 +23,7 @@ When asked to ingest `Unorganised/`:
 - Every note links to its section MOC and to ≥3 siblings.
 - Never invent facts. If a braindump is ambiguous or wrong, write it down as `> [!warning] Unverified` and flag it in the report rather than silently "fixing" it.
 - Never delete content. Supersede it: keep the old text under `## Deprecated` and link the replacement.
+- **This vault is public.** Never write credentials, API keys, internal hostnames/IPs, client or employer names, personal data, or unverified negative claims about real people. If a source contains any of these, stop and ask instead of generalising it.
 - Don't restructure folders without asking.
 - `status` must be honest: don't mark a two-line note `solid`.
 

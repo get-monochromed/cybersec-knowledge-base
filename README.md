@@ -10,6 +10,9 @@ updated: 2026-10-23
 
 # How this vault works
 
+> [!warning] This vault is public
+> It is published at `github.com/get-monochromed/cybersec-knowledge-base` and every commit is world-readable. It contains only generic, textbook cyber-security knowledge. Before ingesting anything, read the "Public repository rules" section below.
+
 A personal cyber-security Wikipedia. Folders give the coarse map, wikilinks give the real graph, frontmatter makes everything queryable with Dataview.
 
 ## Layout
@@ -98,3 +101,16 @@ npx -y obsidian-mcp@2 recovery restore --vault cybersec=/home/monochrome/Documen
 ```
 
 `.obsidian-mcp/` holds the transaction journal and trash (30 days, 1 GiB cap by default). It is excluded from search, Linter and the graph via `userIgnoreFilters`.
+
+## Public repository rules
+
+Because the vault is public, ingest must stay generic:
+
+- **Never** file credentials, API keys, tokens, licence keys or password hashes.
+- **Never** file real internal hostnames, IP addresses, domains, or customer/employer names.
+- **Never** file personal data of any kind (names, emails, phone numbers, ID numbers, addresses).
+- **Never** file unverified negative claims about named people or organisations.
+- Sanitise screenshots and pasted command output before they enter `_Attachments/`.
+- Lab material from real engagements is out of bounds; use the generic pattern instead of the specific target.
+
+If a braindump contains any of the above, Pi should stop, flag it, and ask — not silently generalise it.
