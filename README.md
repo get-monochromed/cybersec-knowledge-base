@@ -78,7 +78,16 @@ Tags are cross-cutting, folders are primary. Prefixes:
 
 Templater, QuickAdd, Dataview, Breadcrumbs, Janitor, Linter, Obsidian Git, Excalidraw, Smart Connections, Spaced Repetition, Omnisearch, Local REST API, Table Editor.
 
-Templater template folder: `_Templates`. Breadcrumbs uses the `up` / `down` / `same` frontmatter fields (optional — wikilinks are the source of truth).
+Templater template folder: `_Templates`. Breadcrumbs reads the `up:` frontmatter field (every note points at its section MOC) alongside the wikilinks.
+
+**Obsidian Git is installed but disabled.** Automatic commits are off, so nothing gets published without a human decision. Use the helper instead:
+
+```bash
+cybersec-push                 # shows changes, asks for a commit message, pushes
+cybersec-push "message here"  # non-interactive, for agents and scripts
+```
+
+It lives at `~/.local/bin/cybersec-push`, refuses to commit content that looks like a private key or API token, and reports pushed commits. Override the target with `CYBERSEC_VAULT` or `CYBERSEC_REMOTE`.
 
 ## Agent access (MCP)
 
