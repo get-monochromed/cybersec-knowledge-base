@@ -30,11 +30,11 @@ Personal wiki of everything I know about cyber security. Start here, drill into 
 
 ## Quick jumps
 
-**Concepts:** [[CIA Triad]] · [[Security Principles]] · [[Threat Modelling]] · [[Risk Management]] · [[Defence in Depth]] · [[Attack Surface]]
+**Concepts:** [[Kerberos]] · [[CIA Triad]] · [[Security Principles]] · [[Threat Modelling]] · [[Risk Management]] · [[Defence in Depth]] · [[Attack Surface]]
 
 **Attacks:** [[Phishing]] · [[SQL Injection]] · [[Cross-Site Scripting]] · [[Denial of Service (DoS)]] · [[Man-in-the-Middle (MITM)]] · [[Ransomware]] · [[Privilege Escalation]] · [[Supply Chain Attack]]
 
-**Defence:** [[Firewall]] · [[IDS and IPS]] · [[WAF]] · [[Endpoint Protection]] · [[Access Control Models]] · [[Incident Response]] · [[SIEM]]
+**Defence:** [[Privileged Access Management]] · [[Firewall]] · [[IDS and IPS]] · [[WAF]] · [[Endpoint Protection]] · [[Access Control Models]] · [[Incident Response]] · [[SIEM]]
 
 **Frameworks:** [[MITRE ATT&CK]] · [[NIST CSF]] · [[ISO 27001]] · [[CIS Controls]] · [[OWASP Top 10]]
 

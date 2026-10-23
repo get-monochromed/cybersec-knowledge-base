@@ -19,6 +19,7 @@ sources: []
 | AEAD | Authenticated Encryption with Associated Data |
 | APT | Advanced Persistent Threat |
 | ASR | Attack Surface Reduction |
+| ADCS | Active Directory Certificate Services |
 | BCDR | Business Continuity and Disaster Recovery |
 | BEC | Business Email Compromise |
 | BIA | Business Impact Analysis |
@@ -29,6 +30,7 @@ sources: []
 | CIEM | Cloud Infrastructure Entitlement Management |
 | CSPM | Cloud Security Posture Management |
 | CTI | Cyber Threat Intelligence |
+| DCSync | Directory Replication Service sync (attack) |
 | DLP | Data Loss Prevention |
 | DMARC | Domain-based Message Authentication, Reporting and Conformance |
 | DPO | Data Protection Officer |
@@ -43,6 +45,7 @@ sources: []
 | ISMS | Information Security Management System |
 | KEV | Known Exploited Vulnerabilities (CISA catalogue) |
 | KMS | Key Management Service |
+| LAPS | Local Administrator Password Solution |
 | LOLBin | Living Off the Land Binary |
 | MDR | Managed Detection and Response |
 | MITM | Man-in-the-Middle |
@@ -53,6 +56,7 @@ sources: []
 | PQC | Post-Quantum Cryptography |
 | RaaS | Ransomware-as-a-Service |
 | RASP | Runtime Application Self-Protection |
+| RBCD | Resource-Based Constrained Delegation |
 | RBAC | Role-Based Access Control |
 | RPO/RTO | Recovery Point/Time Objective |
 | SASE | Secure Access Service Edge |
@@ -60,7 +64,10 @@ sources: []
 | SIEM | Security Information and Event Management |
 | SOAR | Security Orchestration, Automation and Response |
 | SOC | Security Operations Centre |
+| SPN | Service Principal Name |
 | SSRF | Server-Side Request Forgery |
+| TGS | Ticket Granting Service (service ticket) |
+| TGT | Ticket Granting Ticket |
 | TTP | Tactics, Techniques and Procedures |
 | UEBA | User and Entity Behaviour Analytics |
 | WAF | Web Application Firewall |

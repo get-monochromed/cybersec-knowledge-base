@@ -25,9 +25,16 @@ Attacks against 802.11 networks. The radio medium is shared, so the attacker can
 - **Deauthentication attack** — forge deauth frames to disconnect clients; used to force reconnection to the evil twin or capture handshakes. (802.11w/PMF mitigates.)
 - **KRACK** — key reinstallation against WPA2; patched in modern clients.
 - **WPA3 downgrade / Dragonblood** — force clients to WPA2 or exploit SAE implementation flaws; patched where vendors updated.
+- **Transition-mode downgrade** — attack WPA3's WPA2-compatible mode to obtain a crackable handshake.
 - **Karma / known-beacon attacks** — respond to any SSID a device probes for.
 - **Bluetooth/BLE attacks** — bluejacking, bluesnarfing, BLE spoofing, mousejack.
 - **Rogue device on the LAN** — a Raspberry Pi hidden in a meeting room (physical).
+
+## Common misconceptions
+
+- **"KRACK broke WPA3."** No — KRACK (2017) targets the WPA2 4-way handshake. WPA3's SAE handshake is not vulnerable to it; WPA3's own issues are Dragonblood (SAE side channels) and transition-mode downgrade.
+- **"WPA3 is unbreakable."** No — it removes offline dictionary attacks against the handshake, but weak passphrases, downgrade to transition mode, rogue APs and client misconfiguration remain.
+- **"WPA2-Enterprise is safe because it uses 802.1X."** Only if clients validate the RADIUS server certificate; otherwise an evil twin harvests credentials.
 
 ## Detection
 

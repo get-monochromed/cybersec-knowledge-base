@@ -65,6 +65,25 @@ One line per term, with the note to read for depth.
 **XSS** — injected JavaScript executing in a victim's browser. → [[Cross-Site Scripting]]
 **Zip bomb** — archive that expands enormously, exhausting resources. → [[Denial of Service (DoS)]]
 
+## Active Directory and Kerberos
+
+**ADCS** — Active Directory Certificate Services; issues certs that authenticate as a user. → [[Active Directory Certificate Services (ADCS)]]
+**AS-REP roasting** — cracking the AS-REP of an account without pre-auth. → [[AS-REP Roasting]]
+**DCSync** — abusing replication rights to pull password hashes from a DC. → [[DCSync]]
+**ESC1** — vulnerable ADCS template allowing an attacker-chosen SAN. → [[Active Directory Certificate Services (ADCS)]]
+**Golden ticket** — forged TGT signed with the krbtgt hash. → [[Golden Ticket]]
+**gMSA** — group managed service account; machine-managed 240-char password.
+**Kerberoasting** — cracking a service ticket offline. → [[Kerberoasting]]
+**krbtgt** — the account whose hash signs every TGT; compromise = domain compromise. → [[Kerberos]]
+**LAPS** — Local Administrator Password Solution; unique local admin passwords per host. → [[Operating System Security]]
+**Pass-the-hash** — authenticating with an NTLM hash instead of a password. → [[Pass-the-Hash]]
+**Pass-the-ticket** — injecting a stolen Kerberos ticket. → [[Pass-the-Hash]]
+**RBCD** — resource-based constrained delegation. → [[Kerberos Delegation]]
+**Silver ticket** — forged service ticket signed with a service account key. → [[Silver Ticket]]
+**SPN** — Service Principal Name; how Kerberos names a service. → [[Kerberos]]
+**TGT** — ticket granting ticket, obtained from the AS. → [[Kerberos]]
+**TGS** — service ticket, obtained from the TGS for a specific SPN. → [[Kerberos]]
+
 ## Defence and operations
 
 **Alert fatigue** — desensitisation from too many low-quality alerts. → [[Security Operations Centre]]
@@ -80,6 +99,7 @@ One line per term, with the note to read for depth.
 **MDR** — managed detection and response. → [[Security Operations Centre]]
 **Microsegmentation** — per-workload network policy. → [[Network Segmentation]]
 **MTTD/MTTA/MTTR** — mean time to detect/acknowledge/respond. → [[Security Operations Centre]]
+**Sigma rule** — vendor-neutral YAML detection rule. → [[Sigma Rules]]
 **Playbook** — predefined response procedure. → [[SOAR]]
 **Post-incident review** — structured lessons-learned after an incident. → [[Incident Response]]
 **Purple teaming** — red and blue collaborating on detection coverage. → [[Purple Teaming]]

@@ -1,3 +1,19 @@
+---
+title: 2026-10-23-test-braindump
+aliases: []
+category: source
+tags: [source/test, ingest-test]
+status: solid
+ingested: 2026-10-23
+produced: ["[[Kerberos]]", "[[Pass-the-Hash]]", "[[Kerberoasting]]", "[[AS-REP Roasting]]", "[[Golden Ticket]]", "[[Silver Ticket]]", "[[DCSync]]", "[[Kerberos Delegation]]", "[[Active Directory Certificate Services (ADCS)]]", "[[Sigma Rules]]", "[[Privileged Access Management]]"]
+---
+
+> [!note] Ingest record
+> AI-generated end-to-end test of the ingest pipeline. Two claims were **incorrect as written and corrected on filing**:
+> 1. "WPA3 is broken by KRACK" — KRACK targets WPA2. Filed correctly in [[Wireless Attacks]].
+> 2. "Tier 1 does malware analysis / Tier 3 closes tickets" — inverted. Filed correctly in [[Security Operations Centre]].
+> Duplicated content (LAPS, defence in depth) was skipped as already covered.
+
 random notes from lab session - clean this up later
 
 ad stuff

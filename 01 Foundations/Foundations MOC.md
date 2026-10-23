@@ -17,6 +17,7 @@ The vocabulary everything else is built on. If a later note feels confusing, it 
 
 - [[CIA Triad]] — confidentiality, integrity, availability; the three properties security protects
 - [[Authentication, Authorization and Accounting]] — proving identity, granting permission, recording action
+- [[Kerberos]] — the ticket protocol behind Active Directory, and the root of every AD attack
 - [[Security Principles]] — least privilege, fail-safe defaults, separation of duties
 - [[Security Controls]] — preventive, detective, corrective, compensating
 - [[Defence in Depth]] — layered controls so one failure is not fatal

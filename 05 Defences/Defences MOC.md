@@ -29,6 +29,7 @@ Implementations of the [[Security Controls]] taxonomy. Read the taxonomy first: 
 ## Identity & access
 
 - [[Access Control Models]] — DAC, MAC, RBAC, ABAC
+- [[Privileged Access Management]] — vault, broker, time-box and record admin access
 - [[Zero Trust Architecture]] — assume breach
 - [[Authentication, Authorization and Accounting]] (foundations)
 

@@ -27,6 +27,18 @@ Attack techniques, grouped by where they act. Each note follows Summary → How 
 - [[Social Engineering]] — pretexting, tailgating, helpdesk abuse
 - [[Password Attacks]] — spraying, stuffing, brute force
 
+## Active Directory / Kerberos
+
+- [[Kerberos]] (foundations) — the ticket flow everything below abuses
+- [[Kerberoasting]] — crack service tickets offline, any domain user
+- [[AS-REP Roasting]] — accounts without pre-auth, username is enough
+- [[Pass-the-Hash]] — NTLM hash reuse; why local admin reuse is fatal
+- [[Golden Ticket]] — forged TGT from the krbtgt hash
+- [[Silver Ticket]] — forged service ticket, invisible to the DC
+- [[DCSync]] — replicate secrets from a DC using legitimate protocol
+- [[Kerberos Delegation]] — unconstrained, constrained and RBCD abuse
+- [[Active Directory Certificate Services (ADCS)]] — ESC1 and friends: certificates as credentials
+
 ## Web / application
 
 - [[Injection Attacks]] — the family; SQLi, command, LDAP, template

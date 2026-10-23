@@ -25,6 +25,8 @@ The team and process that monitors, triages and responds to security events, 24/
 - **SOC manager** — staffing, metrics, stakeholder reporting.
 - **IR team** — may be separate; takes over major incidents.
 
+**Common misconception:** Tier 1 does not "do malware analysis all day", and Tier 3 does not "just close tickets". Tier 1 triages against runbooks and escalates; Tier 2 investigates and contains; Tier 3 hunts, does DFIR and malware analysis, and writes detections. In small teams one person wears all three hats — the tier names describe *decisions*, not seniority.
+
 ## Workflow
 
 Alert → triage (is it real? is it in scope? what is the impact?) → enrich (asset, identity, intel) → escalate or close → contain/eradicate/recover → document → lessons learned → detection improvement.
