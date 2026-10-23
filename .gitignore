@@ -12,3 +12,6 @@
 # If this vault is ever pushed to a remote, consider uncommenting:
 # .obsidian/plugins/*/main.js
 # .obsidian/plugins/*/styles.css
+
+# Smart Connections embedding cache
+.smart-env/
