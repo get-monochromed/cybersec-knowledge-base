@@ -20,24 +20,29 @@ One line per term, with the note to read for depth.
 **Attack surface** — every interface an attacker can reach. → [[Attack Surface]]
 **Attack vector** — the path used to reach and exploit a target (email, exposed service, USB).
 **Control** — a safeguard that changes likelihood or impact. → [[Security Controls]]
+**Coordinated disclosure** — vendor notified privately, public disclosure after an agreed deadline (norm: 90 days). → [[Vulnerability Disclosure]]
 **Defence in depth** — independent layers so one failure is not fatal. → [[Defence in Depth]]
 **Least privilege** — minimum access, minimum time. → [[Security Principles]]
 **Residual risk** — risk remaining after controls. → [[Risk Management]]
+**Stockpiling** — retaining a known vulnerability for offensive use instead of disclosing it; the EternalBlue failure mode. → [[Vulnerability Disclosure]]
 **Threat** — a potential cause of harm. → [[Vulnerability, Threat, Risk and Exploit]]
 **Threat actor** — who might act against you. → [[Threat Actor]]
 **Trust boundary** — a line where trust level changes. → [[Trust Boundaries]]
+**VEP** — Vulnerabilities Equities Process; the U.S. interagency decision on disclose-or-retain. → [[Vulnerability Disclosure]]
 **Vulnerability** — a weakness that can be exploited. → [[Vulnerability, Threat, Risk and Exploit]]
 **Zero day** — a vulnerability with no vendor fix (and often no public knowledge) at time of use. → [[Exploitation]]
 
 ## Attacks and malware
 
 **Backdoor / implant** — persistent remote access mechanism. → [[Trojan]]
+**BlueKeep** — pre-authentication RDP remote code execution, CVE-2019-0708. → [[BlueKeep]]
 **Botnet** — network of compromised hosts under remote control. → [[Botnet]]
 **Botnet-as-a-service** — renting an infected base for spam, trojan, ransomware or DDoS delivery. → [[Kelihos]]
 **Brute force** — trying many credentials. → [[Password Attacks]]
 **Credential stuffing** — replaying breached username/password pairs. → [[Password Attacks]]
 **Drive-by download** — malware installed just by visiting a page.
 **Dropper** — minimal malware whose job is to install the real payload. → [[Malware]]
+**EternalBlue** — leaked NSA SMBv1 exploit (MS17-010, CVE-2017-0144); the engine of WannaCry and NotPetya. → [[EternalBlue]]
 **Evil twin** — lookalike Wi-Fi AP. → [[Wireless Attacks]]
 **Exploit** — code/technique that leverages a vulnerability. → [[Exploitation]]
 **Fileless malware** — payload living in memory/registry/scripts. → [[Fileless Malware]]
@@ -49,7 +54,11 @@ One line per term, with the note to read for depth.
 **Living off the land** — abusing legitimate OS tools. → [[Living off the Land]]
 **Logic bomb** — dormant code triggered by a condition. → [[Malware]]
 **Malware** — software with malicious or unauthorised behaviour. → [[Malware]]
+**MBR** — master boot record; the disk's boot sector. Overwriting it is how boot-path ransomware makes a volume unbootable. → [[Petya]]
+**MFT** — Master File Table; the NTFS index of where files live. Encrypting it loses the whole volume at once. → [[Petya]]
+**Mischa** — Petya's fallback payload, file-encrypting ransomware that needs no admin rights. → [[Petya]]
 **MITM** — attacker positioned between two parties. → [[Man-in-the-Middle (MITM)]]
+**NotPetya** — 2017 wiper that used the Petya payload for camouflage; M.E.Doc supply chain, >US$10bn. → [[NotPetya]]
 **Persistence** — mechanism that survives reboot/logout. → [[Post Exploitation]]
 **P2P botnet** — bots relay commands to each other; no central server to seize. → [[Kelihos]]
 **Phishing** — deception to induce a click/credential/action. → [[Phishing]]
@@ -89,6 +98,7 @@ One line per term, with the note to read for depth.
 
 ## Defence and operations
 
+**Act-of-war exclusion** — policy clause voiding cover for state-backed attacks; the NotPetya insurance fight. → [[Cyber Insurance]]
 **Alert fatigue** — desensitisation from too many low-quality alerts. → [[Security Operations Centre]]
 **BCL** — Botnet Controller List; IPs believed to host botnet C2 only. → [[Spamhaus Project]]
 **Chain of custody** — documented evidence handling trail. → [[Digital Forensics]]

@@ -2,7 +2,7 @@
 title: Supply Chain Attack
 aliases: [Software Supply Chain Attack, Third-Party Risk, Dependency Attack]
 category: attack
-tags: [attack/supply-chain, owasp-a08]
+tags: [attack/supply-chain, owasp-a03]
 status: solid
 up: "[[Attacks MOC]]"
 created: 2026-10-23
@@ -20,7 +20,7 @@ Compromise not the target but something the target trusts: a library, a vendor, 
 
 - **Dependencies** — malicious package versions (typosquatting, dependency confusion, hijacked maintainer accounts), e.g. event-stream, ua-parser-js, the xz-utils backdoor.
 - **Build systems / CI-CD** — compromised runners, leaked deployment tokens, poisoned build artifacts (SolarWinds Orion).
-- **Update channels** — legitimate updater delivering malicious payload (NotPetya via M.E.Doc, CCleaner).
+- **Update channels** — legitimate updater delivering malicious payload ([[NotPetya]] via the M.E.Doc tax package, CCleaner).
 - **Managed service providers** — one RMM compromise gives access to all clients (Kaseya, ConnectWise).
 - **Hardware/firmware** — implants, backdoored appliances, counterfeit network gear.
 - **Open-source maintainer social engineering** — long-game trust building then malicious commit.

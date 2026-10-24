@@ -6,7 +6,7 @@ tags: [moc]
 status: solid
 up: "[[Home]]"
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-24
 ---
 
 # Governance, Risk & Compliance
@@ -41,6 +41,7 @@ The management layer: what the organisation has decided, how it proves it, and w
 
 - [[Compliance Audit]] — evidence, sampling, findings
 - [[Business Continuity and Disaster Recovery]] — surviving disruption
+- [[Cyber Insurance]] — risk transfer, and why the act-of-war exclusion matters
 
 ## Related
 

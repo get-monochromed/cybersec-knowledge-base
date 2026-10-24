@@ -6,7 +6,7 @@ tags: [reference, network]
 status: solid
 up: "[[Reference MOC]]"
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-24
 sources: []
 ---
 
@@ -24,7 +24,7 @@ sources: []
 | 67/68 | DHCP | rogue DHCP, starvation |
 | 80 | HTTP | redirect to 443; HSTS |
 | 123 | NTP | amplification; time skew breaks logs |
-| 135/139/445 | RPC/NetBIOS/SMB | **445 = ransomware's favourite** |
+| 135/139/445 | RPC/NetBIOS/SMB | **445 = ransomware's favourite**; [[EternalBlue]] and [[WannaCry]] live here |
 | 143/993/995 | IMAP/IMAPS/POP3S | legacy auth bypasses in cloud |
 | 161/162 | SNMP | v1/v2c community strings = plaintext |
 | 389/636 | LDAP/LDAPS | AD enumeration |
@@ -33,7 +33,7 @@ sources: []
 | 1521 | Oracle DB | |
 | 2049 | NFS | exports, no auth by default |
 | 3306 | MySQL | |
-| 3389 | RDP | **top ransomware entry point if exposed** |
+| 3389 | RDP | **top ransomware entry point if exposed**; [[BlueKeep]] (CVE-2019-0708) is pre-auth RCE |
 | 5432 | PostgreSQL | |
 | 5900–5903 | VNC | often unauthenticated |
 | 5985/5986 | WinRM | remote management |

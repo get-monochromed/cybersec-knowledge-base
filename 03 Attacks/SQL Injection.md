@@ -2,7 +2,7 @@
 title: SQL Injection
 aliases: [SQLi, SQL Injection Attack]
 category: attack
-tags: [attack/web, owasp-a03, injection, exam]
+tags: [attack/web, owasp-a05, injection, exam]
 status: solid
 up: "[[Attacks MOC]]"
 created: 2026-10-23

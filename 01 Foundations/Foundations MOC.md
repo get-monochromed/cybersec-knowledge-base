@@ -6,7 +6,7 @@ tags: [moc]
 status: solid
 up: "[[Home]]"
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-24
 ---
 
 # Foundations
@@ -27,6 +27,7 @@ The vocabulary everything else is built on. If a later note feels confusing, it 
 ## Analysis and decision-making
 
 - [[Vulnerability, Threat, Risk and Exploit]] — the four words people misuse most
+- [[Vulnerability Disclosure]] — who learns about a bug, when, and who pays for the delay
 - [[Threat Modelling]] — STRIDE, attack trees, kill chains
 - [[Risk Management]] — likelihood × impact, treatment options, residual risk
 - [[Security Models]] — Bell-LaPadula, Biba, Clark-Wilson, Brewer-Nash

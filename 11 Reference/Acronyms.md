@@ -52,10 +52,13 @@ sources: []
 | KMS | Key Management Service |
 | LAPS | Local Administrator Password Solution |
 | LOLBin | Living Off the Land Binary |
+| MBR | Master Boot Record |
 | MDR | Managed Detection and Response |
+| MFT | Master File Table (NTFS) |
 | MITM | Man-in-the-Middle |
 | MTTD/MTTR | Mean Time To Detect / Respond |
 | NGFW | Next-Generation Firewall |
+| NLA | Network Level Authentication (RDP) |
 | P2P | Peer-to-Peer |
 | PAM | Privileged Access Management |
 | PBL | Policy Blocklist (Spamhaus) |
@@ -66,6 +69,7 @@ sources: []
 | RAT | Remote Access Trojan |
 | RBCD | Resource-Based Constrained Delegation |
 | RBAC | Role-Based Access Control |
+| RDP | Remote Desktop Protocol |
 | RHSBL | Right-Hand-Side Blocklist |
 | RPO/RTO | Recovery Point/Time Objective |
 | ROKSO | Register of Known Spam Operations |
@@ -73,6 +77,7 @@ sources: []
 | SBL | Spamhaus Blocklist |
 | SBOM | Software Bill of Materials |
 | SIEM | Security Information and Event Management |
+| SMB | Server Message Block (file sharing) |
 | SOAR | Security Orchestration, Automation and Response |
 | SOC | Security Operations Centre |
 | SPN | Service Principal Name |
@@ -81,6 +86,7 @@ sources: []
 | TGT | Ticket Granting Ticket |
 | TTP | Tactics, Techniques and Procedures |
 | UEBA | User and Entity Behaviour Analytics |
+| VEP | Vulnerabilities Equities Process |
 | WAF | Web Application Firewall |
 | XBL | Exploits Blocklist (Spamhaus) |
 | XDR | Extended Detection and Response |

@@ -46,7 +46,7 @@ CyberSec/
 title: SQL Injection
 aliases: [SQLi]
 category: attack          # foundation | actor | attack | malware | defence | domain | offensive | defensive | grc | crypto | reference
-tags: [attack/web, owasp-a03, injection]
+tags: [attack/web, owasp-a05, injection]
 status: solid             # stub | developing | solid
 created: 2026-10-23
 updated: 2026-10-23

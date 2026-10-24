@@ -5,7 +5,7 @@ category: index
 tags: [moc, home]
 status: solid
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-24
 ---
 
 # Cyber Security Knowledge Base
@@ -37,6 +37,8 @@ Personal wiki of everything I know about cyber security. Start here, drill into 
 **Defence:** [[Privileged Access Management]] · [[Firewall]] · [[IDS and IPS]] · [[WAF]] · [[Endpoint Protection]] · [[Access Control Models]] · [[Incident Response]] · [[SIEM]]
 
 **Frameworks:** [[MITRE ATT&CK]] · [[NIST CSF]] · [[ISO 27001]] · [[CIS Controls]] · [[OWASP Top 10]]
+
+**Case studies:** [[EternalBlue]] · [[BlueKeep]] · [[WannaCry]] · [[Petya]] · [[NotPetya]] · [[Kelihos]]
 
 **Crypto:** [[Symmetric Encryption]] · [[Asymmetric Encryption]] · [[Hashing]] · [[TLS]] · [[Digital Signatures and PKI]]
 

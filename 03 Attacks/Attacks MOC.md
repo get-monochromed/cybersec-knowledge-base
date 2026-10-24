@@ -6,7 +6,7 @@ tags: [moc]
 status: solid
 up: "[[Home]]"
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-24
 ---
 
 # Attacks
@@ -19,6 +19,11 @@ Attack techniques, grouped by where they act. Each note follows Summary → How 
 - [[Cyber Kill Chain]] — the phases of an intrusion
 - [[MITRE ATT&CK]] — the technique catalogue
 - [[OWASP Top 10]] — web risk ranking
+
+## Exploited vulnerabilities
+
+- [[EternalBlue]] — NSA SMBv1 exploit (MS17-010, CVE-2017-0144); the engine of WannaCry and NotPetya
+- [[BlueKeep]] — pre-authentication RDP remote code execution (CVE-2019-0708)
 
 ## Social / human
 
