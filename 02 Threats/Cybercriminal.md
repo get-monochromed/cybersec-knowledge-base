@@ -6,7 +6,7 @@ tags: [actor/financial, ransomware]
 status: solid
 up: "[[Threats MOC]]"
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-24
 sources: []
 ---
 
@@ -25,6 +25,7 @@ Revenue with low risk of prosecution. Return on investment drives target selecti
 - Medium to very high: bought or rented tooling, professional OPSEC, helpdesks for affiliates.
 - **Ransomware-as-a-Service (RaaS)**: developers sell or rent the encryptor; affiliates do the intrusion and keep a cut. Lowers the skill barrier drastically.
 - **Initial Access Brokers (IABs)** sell footholds (VPN creds, RDP, webshells) on dark-web markets — mapped as the initial access tactic in [[MITRE ATT&CK]].
+- **Botnet-as-a-service**: rent an existing infected base for spam, trojan, ransomware or DDoS delivery instead of building one; [[Kelihos]] sold exactly this. Distribution is the product.
 - **Double/triple extortion**: encrypt + exfiltrate + threaten to leak + DDoS + harass customers.
 
 ## Typical TTPs
@@ -49,4 +50,6 @@ Revenue with low risk of prosecution. Return on investment drives target selecti
 - [[Threat Actor]]
 - [[Business Email Compromise]]
 - [[Backup and Recovery]]
+- [[Kelihos]]
+- [[Botnet]]
 - [[Threats MOC]]

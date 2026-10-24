@@ -25,6 +25,7 @@ sources: []
 | BEC | Business Email Compromise |
 | BIA | Business Impact Analysis |
 | BYOD | Bring Your Own Device |
+| C2 | Command and Control |
 | CA | Certificate Authority |
 | CASB | Cloud Access Security Broker |
 | CDE | Cardholder Data Environment (PCI) |
@@ -32,6 +33,7 @@ sources: []
 | CSPM | Cloud Security Posture Management |
 | CTI | Cyber Threat Intelligence |
 | DCSync | Directory Replication Service sync (attack) |
+| DDoS | Distributed Denial of Service |
 | DBL | Domain Blocklist (Spamhaus) |
 | DLP | Data Loss Prevention |
 | DMARC | Domain-based Message Authentication, Reporting and Conformance |
@@ -54,12 +56,14 @@ sources: []
 | MITM | Man-in-the-Middle |
 | MTTD/MTTR | Mean Time To Detect / Respond |
 | NGFW | Next-Generation Firewall |
+| P2P | Peer-to-Peer |
 | PAM | Privileged Access Management |
 | PBL | Policy Blocklist (Spamhaus) |
 | PFS | Perfect Forward Secrecy |
 | PQC | Post-Quantum Cryptography |
 | RaaS | Ransomware-as-a-Service |
 | RASP | Runtime Application Self-Protection |
+| RAT | Remote Access Trojan |
 | RBCD | Resource-Based Constrained Delegation |
 | RBAC | Role-Based Access Control |
 | RHSBL | Right-Hand-Side Blocklist |

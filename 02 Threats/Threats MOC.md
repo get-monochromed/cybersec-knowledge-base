@@ -6,7 +6,7 @@ tags: [moc]
 status: solid
 up: "[[Home]]"
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-24
 ---
 
 # Threats & Actors
@@ -30,6 +30,7 @@ Who attacks, with what resources, and how we learn about them. Every control dec
 | [[Insider Threat]] | varies | legitimate access | money, grievance, coercion, carelessness |
 | [[Advanced Persistent Threat]] | very high | state-backed | espionage, disruption |
 | [[Nation-State Actor]] | very high | unlimited | strategic, military, political |
+| [[Zombie Spider]] | high | botnet infrastructure, criminal franchise | money |
 
 ## Framing tools
 

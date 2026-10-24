@@ -6,7 +6,7 @@ tags: [moc]
 status: solid
 up: "[[Home]]"
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-24
 ---
 
 # Defensive Operations
@@ -19,6 +19,7 @@ Detecting, investigating and responding to attacks. This is where controls becom
 - [[SIEM]] — the data platform
 - [[SOAR]] — automation and response
 - [[Threat Hunting]] — proactive search for what detection missed
+- [[Peer List Poisoning]] — how a P2P botnet is taken over by controlling its peer discovery
 - [[Incident Response]] — the process when something is real
 - [[Digital Forensics]] — evidence and root cause
 - [[Sigma Rules]] — detection-as-code, vendor-neutral rule format

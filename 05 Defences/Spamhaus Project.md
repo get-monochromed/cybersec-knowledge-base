@@ -9,7 +9,6 @@ created: 2026-10-24
 updated: 2026-10-24
 sources: ["[[_Archive/2026-10-24-spamhaus-project]]"]
 ---
-
 # Spamhaus Project
 
 ## Summary
@@ -30,13 +29,16 @@ The lists matter operationally for two reasons. First, they are one of the few s
 | **ZEN** | IP (composite) | Combined list: all Spamhaus IP-based DNSBLs. |
 | **BCL** | IP | Released June 2012. Addresses believed to be operated by criminals exclusively to host botnet C2 infrastructure. |
 | **DROP** | CIDR/ASN | "Don't Route Or Peer" — JSON files of netblocks and ASNs that are stolen or wholly spam-operated. A subset of SBL, excluding ISP ranges merely sublet to spammers, intended for firewalls and routers to drop traffic to and from the listed blocks entirely. Free to download; a BGP feed of the same data was offered from 2012. |
-| **ROKSO** | Database | Register of Known Spam Operations: spammers and operations terminated by three or more ISPs. Not a DNSBL — public records of persons, domains, addresses and aliases. |
+| **ROKSO** | Database | Register of Known Spam Operations: spammers and operations terminated by three or more ISPs. Not a DNSBL — public records of persons, domains, addresses and aliases. A separate historic "top 10 worst spammers" ranking is also attributed to Spamhaus (see warning below). |
 
 > [!warning] Unverified
 > The clipping says ROKSO "stopped being available to the public at some point after 2023", citing two references that were lost in the capture. Treat the date and the current access model as unconfirmed; what is stated is that a law-enforcement version exists containing evidence, logs and detail on hundreds of spam gangs.
 
 > [!warning] Unverified
 > ZEN's exact composition is ambiguous in the source. It is described both as containing "all" Spamhaus IP-based DNSBLs and as including SBL — while CSS is separately described as part of SBL. Whether ZEN literally includes XBL, PBL and the CSS subset should be checked against current Spamhaus documentation before relying on it.
+
+> [!warning] Unverified
+> A 2017 CrowdStrike blog states that the [[Kelihos]] operator appeared on "the top 10 list of the world's worst spammers maintained by Spamhaus". The list name, date and membership are not confirmed by any Spamhaus source captured here, and it is not necessarily the same artefact as ROKSO. Do not treat it as current data.
 
 ## Distribution and licensing
 
@@ -66,4 +68,5 @@ The lists matter operationally for two reasons. First, they are one of the few s
 - [[Firewall]]
 - [[Threat Intelligence]]
 - [[Cybercriminal]]
+- [[Kelihos]]
 - [[Defences MOC]]
