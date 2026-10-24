@@ -6,7 +6,7 @@ tags: [moc]
 status: solid
 up: "[[Home]]"
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-24
 ---
 
 # Defences
@@ -18,6 +18,7 @@ Implementations of the [[Security Controls]] taxonomy. Read the taxonomy first: 
 - [[Firewall]] · [[IDS and IPS]] · [[WAF]] · [[VPN]]
 - [[Network Segmentation]] — the highest-leverage control after identity
 - [[Honeypot]] — deception as detection
+- [[Spamhaus Project]] — shared anti-spam reputation data (DNSBL, DROP) used by mail filters and edge routers
 
 ## Endpoint & data
 

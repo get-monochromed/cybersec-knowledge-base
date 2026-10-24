@@ -6,7 +6,7 @@ tags: [reference]
 status: developing
 up: "[[Reference MOC]]"
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-24
 sources: []
 ---
 
@@ -21,6 +21,7 @@ sources: []
 | ASR | Attack Surface Reduction |
 | ADCS | Active Directory Certificate Services |
 | BCDR | Business Continuity and Disaster Recovery |
+| BCL | Botnet Controller List |
 | BEC | Business Email Compromise |
 | BIA | Business Impact Analysis |
 | BYOD | Bring Your Own Device |
@@ -31,8 +32,10 @@ sources: []
 | CSPM | Cloud Security Posture Management |
 | CTI | Cyber Threat Intelligence |
 | DCSync | Directory Replication Service sync (attack) |
+| DBL | Domain Blocklist (Spamhaus) |
 | DLP | Data Loss Prevention |
 | DMARC | Domain-based Message Authentication, Reporting and Conformance |
+| DNSBL | DNS-based Blocklist |
 | DPO | Data Protection Officer |
 | EASM | External Attack Surface Management |
 | EDR | Endpoint Detection and Response |
@@ -52,14 +55,18 @@ sources: []
 | MTTD/MTTR | Mean Time To Detect / Respond |
 | NGFW | Next-Generation Firewall |
 | PAM | Privileged Access Management |
+| PBL | Policy Blocklist (Spamhaus) |
 | PFS | Perfect Forward Secrecy |
 | PQC | Post-Quantum Cryptography |
 | RaaS | Ransomware-as-a-Service |
 | RASP | Runtime Application Self-Protection |
 | RBCD | Resource-Based Constrained Delegation |
 | RBAC | Role-Based Access Control |
+| RHSBL | Right-Hand-Side Blocklist |
 | RPO/RTO | Recovery Point/Time Objective |
+| ROKSO | Register of Known Spam Operations |
 | SASE | Secure Access Service Edge |
+| SBL | Spamhaus Blocklist |
 | SBOM | Software Bill of Materials |
 | SIEM | Security Information and Event Management |
 | SOAR | Security Orchestration, Automation and Response |
@@ -71,6 +78,7 @@ sources: []
 | TTP | Tactics, Techniques and Procedures |
 | UEBA | User and Entity Behaviour Analytics |
 | WAF | Web Application Firewall |
+| XBL | Exploits Blocklist (Spamhaus) |
 | XDR | Extended Detection and Response |
 | ZTNA | Zero Trust Network Access |
 

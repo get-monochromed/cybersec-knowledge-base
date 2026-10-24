@@ -6,7 +6,7 @@ tags: [reference, glossary]
 status: solid
 up: "[[Reference MOC]]"
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-24
 sources: []
 ---
 
@@ -87,11 +87,14 @@ One line per term, with the note to read for depth.
 ## Defence and operations
 
 **Alert fatigue** — desensitisation from too many low-quality alerts. → [[Security Operations Centre]]
+**BCL** — Botnet Controller List; IPs believed to host botnet C2 only. → [[Spamhaus Project]]
 **Chain of custody** — documented evidence handling trail. → [[Digital Forensics]]
 **Containment** — stopping spread during an incident. → [[Incident Response]]
 **CSPM** — cloud security posture management. → [[Cloud Security]]
 **Detection engineering** — building and maintaining detections as code. → [[Purple Teaming]]
 **Dwell time** — time an attacker is present before detection. → [[Security Operations Centre]]
+**DNSBL** — DNS-based blocklist; query a zone with the reversed IP to get a listing verdict. → [[Spamhaus Project]]
+**DROP list** — netblocks and ASNs stolen or wholly spam-operated, meant to be dropped at the router. → [[Spamhaus Project]]
 **EDR** — endpoint detection and response. → [[Endpoint Protection]]
 **Eradication** — removing attacker presence. → [[Incident Response]]
 **Honeytoken** — fake credential/file whose use signals compromise. → [[Honeypot]]
@@ -100,9 +103,11 @@ One line per term, with the note to read for depth.
 **Microsegmentation** — per-workload network policy. → [[Network Segmentation]]
 **MTTD/MTTA/MTTR** — mean time to detect/acknowledge/respond. → [[Security Operations Centre]]
 **Sigma rule** — vendor-neutral YAML detection rule. → [[Sigma Rules]]
+**Spamhaus zones** — SBL (spam sources), XBL (exploited hosts), PBL (should-not-send ranges), DBL (domains/URLs), CSS (low-reputation senders), ZEN (combined). → [[Spamhaus Project]]
 **Playbook** — predefined response procedure. → [[SOAR]]
 **Post-incident review** — structured lessons-learned after an incident. → [[Incident Response]]
 **Purple teaming** — red and blue collaborating on detection coverage. → [[Purple Teaming]]
+**ROKSO** — Register of Known Spam Operations; spammers dropped by 3+ ISPs. → [[Spamhaus Project]]
 **SOAR** — orchestration and automation platform. → [[SOAR]]
 **Threat hunting** — proactive search for undetected compromise. → [[Threat Hunting]]
 **TTP** — tactics, techniques and procedures. → [[MITRE ATT&CK]]
