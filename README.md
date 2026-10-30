@@ -5,7 +5,7 @@ category: meta
 tags: [meta, workflow]
 status: solid
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 
 # How this vault works
@@ -25,7 +25,8 @@ CyberSec/
 ├── _Templates/          note skeletons (Templater)
 ├── _Attachments/        images, PDFs, diagrams
 ├── 01 Foundations/      …
-└── 11 Reference/
+├── 11 Reference/        …
+└── 12 Criminology/      crime, criminal behaviour, theories of crime
 ```
 
 `Unorganised/` is a **queue, not storage**. After a braindump has been refactored into the right section, the source file moves to `_Archive/` with an `ingested: true` marker so nothing is lost and nothing is duplicated.
@@ -45,7 +46,7 @@ CyberSec/
 ---
 title: SQL Injection
 aliases: [SQLi]
-category: attack          # foundation | actor | attack | malware | defence | domain | offensive | defensive | grc | crypto | reference
+category: attack          # foundation | actor | attack | malware | defence | domain | offensive | defensive | grc | crypto | criminology | reference
 tags: [attack/web, owasp-a05, injection]
 status: solid             # stub | developing | solid
 created: 2026-10-23

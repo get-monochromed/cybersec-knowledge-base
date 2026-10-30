@@ -6,7 +6,7 @@ tags: [reference, glossary]
 status: solid
 up: "[[Reference MOC]]"
 created: 2026-10-23
-updated: 2026-10-24
+updated: 2026-10-30
 sources: []
 ---
 
@@ -155,6 +155,21 @@ One line per term, with the note to read for depth.
 **RTO/RPO** — recovery time/point objective. → [[Backup and Recovery]]
 **SoA** — Statement of Applicability (ISO 27001). → [[ISO 27001]]
 **SDF** — Significant Data Fiduciary (DPDP). → [[DPDP Act 2023]]
+
+## Criminology
+
+**Classical theory** — behaviour as a free choice weighing pleasure against pain; punishment should be swift, certain and severe. Beccaria, 18th century. → [[Classical Theory]]
+**Conformity perspective** — humans are conforming beings who want to do the right thing; the humanist starting assumption behind strain theory. → [[Conformity Perspective]]
+**Crime** — conduct or omission violating a law forbidding or commanding it, punishable on conviction, and only where the act was intentional and without justification or excuse. → [[Crime]]
+**Criminology** — the scientific study of crime; no single discipline explains it. → [[Criminology]]
+**Deterrence theory** — classical theory in modern form: the threat of discovery or punishment changes the choice. → [[Deterrence Theory]]
+**Falsification** — the source's term for a theory, or any one of its propositions, failing verification in testing. → [[Scientific Theory]]
+**General Strain Theory (GST)** — Agnew (1992): strain is any disliked event or condition, not only blocked goals. → [[General Strain Theory]]
+**Just-world hypothesis** — the belief that the world is just and people get what they deserve; over-generalised, it predicts punitiveness toward offenders. → [[Just-World Hypothesis]]
+**Model** — a graphic representation of a theory or concept, meant to aid understanding; not itself evidence. → [[Scientific Theory]]
+**Positivist theory** — determinist account: antecedents (biological, later social) determine behaviour, so free will is undermined. → [[Positivist Theory]]
+**Strain** — the perceived gap between socially prized goals (wealth, status) and the legitimate means available to reach them. → [[Strain Theory]]
+**Theory verification** — the process of testing a theory by observation and analysis. → [[Scientific Theory]]
 
 ## Related
 

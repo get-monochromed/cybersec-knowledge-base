@@ -5,7 +5,7 @@ category: index
 tags: [moc, home]
 status: solid
 created: 2026-10-23
-updated: 2026-10-24
+updated: 2026-10-30
 ---
 
 # Cyber Security Knowledge Base
@@ -27,6 +27,7 @@ Personal wiki of everything I know about cyber security. Start here, drill into 
 | 09 | [[GRC MOC\|Governance, Risk & Compliance]] | Standards, law, audits, policy |
 | 10 | [[Cryptography MOC\|Cryptography]] | Primitives, PKI, TLS, PQC |
 | 11 | [[Reference MOC\|Reference]] | Glossary, ports, tools, certs, cheatsheets |
+| 12 | [[Criminology MOC\|Criminology]] | Crime, criminal behaviour, theories of why people offend |
 
 ## Quick jumps
 
@@ -37,6 +38,8 @@ Personal wiki of everything I know about cyber security. Start here, drill into 
 **Defence:** [[Privileged Access Management]] · [[Firewall]] · [[IDS and IPS]] · [[WAF]] · [[Endpoint Protection]] · [[Access Control Models]] · [[Incident Response]] · [[SIEM]]
 
 **Frameworks:** [[MITRE ATT&CK]] · [[NIST CSF]] · [[ISO 27001]] · [[CIS Controls]] · [[OWASP Top 10]]
+
+**Criminology:** [[Criminology]] · [[Crime]] · [[Classical Theory]] · [[Deterrence Theory]] · [[Positivist Theory]] · [[Strain Theory]]
 
 **Case studies:** [[EternalBlue]] · [[BlueKeep]] · [[WannaCry]] · [[Petya]] · [[NotPetya]] · [[Kelihos]]
 
@@ -58,7 +61,7 @@ Recently updated:
 
 ```dataview
 TABLE status, category, file.mtime AS "Updated"
-FROM "01 Foundations" OR "02 Threats" OR "03 Attacks" OR "04 Malware" OR "05 Defences" OR "06 Domains" OR "07 Offensive" OR "08 Defensive Ops" OR "09 GRC" OR "10 Cryptography" OR "11 Reference"
+FROM "01 Foundations" OR "02 Threats" OR "03 Attacks" OR "04 Malware" OR "05 Defences" OR "06 Domains" OR "07 Offensive" OR "08 Defensive Ops" OR "09 GRC" OR "10 Cryptography" OR "11 Reference" OR "12 Criminology"
 SORT file.mtime DESC
 LIMIT 15
 ```
@@ -67,7 +70,7 @@ Total notes by section:
 
 ```dataview
 TABLE length(rows) AS "Notes"
-FROM "01 Foundations" OR "02 Threats" OR "03 Attacks" OR "04 Malware" OR "05 Defences" OR "06 Domains" OR "07 Offensive" OR "08 Defensive Ops" OR "09 GRC" OR "10 Cryptography" OR "11 Reference"
+FROM "01 Foundations" OR "02 Threats" OR "03 Attacks" OR "04 Malware" OR "05 Defences" OR "06 Domains" OR "07 Offensive" OR "08 Defensive Ops" OR "09 GRC" OR "10 Cryptography" OR "11 Reference" OR "12 Criminology"
 GROUP BY split(file.folder, "/")[0] AS Section
 SORT Section ASC
 ```
