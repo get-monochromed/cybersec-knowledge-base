@@ -5,6 +5,10 @@
 .obsidian-mcp/
 .trash/
 
+# Syncthing local state (per-device folder IDs and ignore rules)
+.stfolder/
+.stignore
+
 # OS noise
 .DS_Store
 
