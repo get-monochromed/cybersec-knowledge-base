@@ -6,8 +6,8 @@ tags: [criminology, determinism, exam]
 status: developing
 up: "[[Criminology MOC]]"
 created: 2026-10-30
-updated: 2026-10-30
-sources: ["Bartol & Bartol, *Criminal Behavior: A Psychological Approach*", "[[_Archive/2026-10-30-criminal-psychology]]"]
+updated: 2026-11-02
+sources: ["Bartol & Bartol, *Criminal Behavior: A Psychological Approach*", "[[_Archive/2026-10-30-criminal-psychology]]", "[[2026-11-02-bartol-criminology-clippings]]"]
 ---
 
 # Positivist Theory
@@ -24,6 +24,13 @@ It is the direct opposite of [[Classical Theory]], and it is the position most c
 |---|---|---|
 | **Biological** | one's sex, race, even the size of the brain | Cesare Lombroso (1876) measured the skulls of dead and live prisoners and drew conclusions about their criminal tendencies |
 | **Social** | negative early life experiences, lack of educational opportunity | later positivists |
+
+Both generations look for antecedents. The source’s newer discussion distinguishes possible biological contributions from exclusive determination; see [[Biological Approach (Criminology)]], [[Sociological Criminology]] and [[Nonconformity Perspective]].
+
+> [!warning] Unverified
+> The earlier summary that positivists find a difference between offenders and non-offenders and treat it as the cause is an overgeneralisation. A measured difference alone does not establish causation; the newer excerpt describes biological factors as possible influences, not exclusive determinants.
+
+## Deprecated
 
 Both generations share the method: find a measurable difference between offenders and non-offenders, then treat the difference as the cause.
 
@@ -52,4 +59,5 @@ Note the ethical trap that determinism walks into: if behaviour is caused, the o
 - [[Conformity Perspective]]
 - [[Criminology]]
 - [[Crime]]
+- [[Biological Approach (Criminology)]]
 - [[Criminology MOC]]

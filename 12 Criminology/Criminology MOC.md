@@ -34,6 +34,14 @@ Attribution and blame:
 
 - [[Just-World Hypothesis]] — the lay theory that people get what they deserve, and what it does to our reading of offenders and victims
 
+## Perspectives and approaches
+
+- [[Nonconformity Perspective]] · [[Learning Perspective]]
+- [[Social Control Theory]] · [[Self-Control Theory]]
+- [[Social Learning Theory]] · [[Differential Association Theory]]
+- [[Sociological Criminology]] · [[Social Disorganization Theory]] · [[Conflict Theory (Criminology)]]
+- [[Psychological Criminology]] · [[Cognitive Approach (Criminology)]] · [[Biological Approach (Criminology)]] · [[Developmental Criminology]]
+
 ## Where it connects to security
 
 - **Motive and insider risk** — [[Strain Theory]] and [[Insider Threat]]
@@ -43,7 +51,7 @@ Attribution and blame:
 
 ## Status of this section
 
-Two notes are `stub` ([[Conformity Perspective]], [[General Strain Theory]]) because the source gives each a single paragraph. The whole section derives from one textbook excerpt — Bartol & Bartol, *Criminal Behavior: A Psychological Approach* — captured without edition or page numbers, so citations inside the notes are second-hand.
+Several notes, including [[Conformity Perspective]] and [[General Strain Theory]], are `stub` because the source gives each a single paragraph. The section derives from textbook excerpts — Bartol & Bartol, *Criminal Behavior: A Psychological Approach* — captured without edition or page numbers, so citations inside the notes are second-hand.
 
 ## Related
 

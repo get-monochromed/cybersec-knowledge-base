@@ -6,8 +6,8 @@ tags: [criminology, exam]
 status: developing
 up: "[[Criminology MOC]]"
 created: 2026-10-30
-updated: 2026-10-30
-sources: ["Bartol & Bartol, *Criminal Behavior: A Psychological Approach*", "[[_Archive/2026-10-30-criminal-psychology]]"]
+updated: 2026-11-02
+sources: ["Bartol & Bartol, *Criminal Behavior: A Psychological Approach*", "[[_Archive/2026-10-30-criminal-psychology]]", "[[2026-11-02-bartol-criminology-clippings]]"]
 ---
 
 # Criminology
@@ -50,6 +50,10 @@ Part of the reason prevention stalls is cognitive rather than technical: psychol
 
 Security work borrows from criminology more than it admits: situational prevention and CCTV are [[Deterrence Theory]] in practice, insider-threat monitoring is a [[Positivist Theory|positivist]] bet that antecedents and conditions predict behaviour, and fraud/financial-crime motive is [[Strain Theory]] territory. Getting the theory wrong produces controls that address a mechanism nobody is subject to.
 
+## Approaches to the discipline
+
+The source distinguishes [[Sociological Criminology]], which emphasises groups, social conditions and power, from [[Psychological Criminology]], which emphasises individual behaviour and mental processes. [[Developmental Criminology]] examines influences across the life course; these approaches can complement one another.
+
 ## Related
 
 - [[Crime]]
@@ -58,4 +62,5 @@ Security work borrows from criminology more than it admits: situational preventi
 - [[Just-World Hypothesis]]
 - [[Classical Theory]]
 - [[Positivist Theory]]
+- [[Psychological Criminology]]
 - [[Criminology MOC]]

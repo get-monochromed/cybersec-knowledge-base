@@ -171,6 +171,23 @@ One line per term, with the note to read for depth.
 **Strain** — the perceived gap between socially prized goals (wealth, status) and the legitimate means available to reach them. → [[Strain Theory]]
 **Theory verification** — the process of testing a theory by observation and analysis. → [[Scientific Theory]]
 
+**Nonconformity perspective** — human nature framed as requiring social restraint. → [[Nonconformity Perspective]]
+**Social control theory** — weak bonds to conventional society are associated with offending. → [[Social Control Theory]]
+**Self-control theory / General Theory of Crime** — account centring self-control in offending. → [[Self-Control Theory]]
+**Learning perspective** — behaviour and beliefs understood through learning and development. → [[Learning Perspective]]
+**Social learning theory** — behaviour learned through processes including modelling and reinforcement. → [[Social Learning Theory]]
+**Differential association theory** — criminal behaviour learned through social interaction. → [[Differential Association Theory]]
+**Sociological criminology** — study of crime in relation to social groups, conditions and power. → [[Sociological Criminology]]
+**Social disorganization** — a perspective on community conditions and crime. → [[Social Disorganization Theory]]
+**Conflict theory** — analysis of power in defining and enforcing crime. → [[Conflict Theory (Criminology)]]
+**Psychological criminology** — study of behaviour and mental processes relating to offending. → [[Psychological Criminology]]
+**Cognitive approach** — study of beliefs and thoughts in relation to offending. → [[Cognitive Approach (Criminology)]]
+**Biological approach** — study of potential biological and neurological influences on behaviour. → [[Biological Approach (Criminology)]]
+**Developmental criminology** — study of influences on offending across the life course. → [[Developmental Criminology]]
+**Risk factor** — an influence associated with increased likelihood of an outcome. → [[Developmental Criminology]]
+**Protective factor** — an influence that may buffer against risk. → [[Developmental Criminology]]
+**Resilience** — capacity to recover or cope in the face of adversity. → [[Developmental Criminology]]
+
 ## Related
 
 - [[Acronyms]]

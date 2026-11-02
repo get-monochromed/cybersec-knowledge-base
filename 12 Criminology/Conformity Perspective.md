@@ -6,8 +6,8 @@ tags: [criminology, human-nature]
 status: stub
 up: "[[Criminology MOC]]"
 created: 2026-10-30
-updated: 2026-10-30
-sources: ["Bartol & Bartol, *Criminal Behavior: A Psychological Approach*", "[[_Archive/2026-10-30-criminal-psychology]]"]
+updated: 2026-11-02
+sources: ["Bartol & Bartol, *Criminal Behavior: A Psychological Approach*", "[[_Archive/2026-10-30-criminal-psychology]]", "[[2026-11-02-bartol-criminology-clippings]]"]
 ---
 
 # Conformity Perspective
@@ -21,10 +21,16 @@ Its criminological consequence is a question rather than an answer: if people ar
 > [!warning] Unverified
 > This note is one paragraph's worth of source material. The source states the perspective and its link to humanistic and positive psychology without describing a research programme, any study, or a mechanism connecting conformity to offending. `status: stub` is honest, not modest.
 
+## Contrasting perspectives
+
+The source contrasts this assumption with the [[Nonconformity Perspective]] and the [[Learning Perspective]]; [[Social Control Theory]] is presented as an example of the former. These are competing starting assumptions, not established facts about human nature.
+
 ## Related
 
 - [[Strain Theory]]
 - [[General Strain Theory]]
 - [[Positivist Theory]]
 - [[Criminology]]
+- [[Nonconformity Perspective]]
+- [[Learning Perspective]]
 - [[Criminology MOC]]

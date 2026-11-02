@@ -43,6 +43,7 @@ sources: []
 | EDR | Endpoint Detection and Response |
 | EPSS | Exploit Prediction Scoring System |
 | GRC | Governance, Risk and Compliance |
+| GTC | General Theory of Crime → [[Self-Control Theory]] |
 | HIDS/NIDS | Host/Network Intrusion Detection System |
 | HSM | Hardware Security Module |
 | IAB | Initial Access Broker |
@@ -75,6 +76,7 @@ sources: []
 | ROKSO | Register of Known Spam Operations |
 | SASE | Secure Access Service Edge |
 | SBL | Spamhaus Blocklist |
+| SCT | Self-control theory → [[Self-Control Theory]] |
 | SBOM | Software Bill of Materials |
 | SIEM | Security Information and Event Management |
 | SMB | Server Message Block (file sharing) |
@@ -82,6 +84,7 @@ sources: []
 | SOC | Security Operations Centre |
 | SPN | Service Principal Name |
 | SSRF | Server-Side Request Forgery |
+| TBI | Traumatic brain injury → [[Biological Approach (Criminology)]] |
 | TGS | Ticket Granting Service (service ticket) |
 | TGT | Ticket Granting Ticket |
 | TTP | Tactics, Techniques and Procedures |
